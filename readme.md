@@ -3,8 +3,8 @@
 Find more themes: https://github.com/JulianPrieber/llc-themes
 
 - Theme Name: Rainbow
-- Theme Version: 1.0
-- Theme Date: 15/08/2024 <!-- DD/MM/YYYY -->
+- Theme Version: 1.1
+- Theme Date: 15/11/2024 <!-- DD/MM/YYYY -->
 - Theme Author: nekosheen
 - Theme Author URI: https://github.com/nekosheen
 - Theme License: MIT
